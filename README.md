@@ -5,3 +5,6 @@
 <pre><code>cd Ddos</code></pre>
 <pre><code>python2 V-DdoS.py</code></pre>
 <pre>Tinggal masukan ip website dan port.</pre>
+
+## cara penginstalan di vps
+<pre><code>pkg update -y && pkg upgrade -y pkg install python2 chmod +x </code></pre>
